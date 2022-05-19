@@ -1,0 +1,10 @@
+h1 {
+    color: purple;
+}
+.title {
+    color: blue;
+    font-size: 150px;
+}
+#app-title {
+    background-color: black;
+}
