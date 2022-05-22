@@ -14,3 +14,7 @@ button {
     background-color: rgb(78, 78, 78);
     color: rgb(255, 255, 255)
 }
+button:hover {
+    background-color: lime;
+    color: rgb(0, 0, 0);
+}
